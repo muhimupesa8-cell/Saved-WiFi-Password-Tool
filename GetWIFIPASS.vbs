@@ -4,7 +4,7 @@
 ' ==============================================
 ' Developed by: INFOTECH WIZARDS Telegram Channel
 ' Website: https://t.me/infotechwizards
-' Copyright (c) 2024 INFOTECH WIZARDS. All Rights Reserved.
+' Copyright (c) 2025 INFOTECH WIZARDS. All Rights Reserved.
 ' ==============================================
 ' IMPORTANT LEGAL DISCLAIMER:
 ' This tool is created for EDUCATIONAL PURPOSES and
@@ -28,14 +28,14 @@ userResponse = WshShell.Popup("INFOTECH WIZARDS WiFi Password Check Tool" & vbCr
                               "• Use only on authorized networks" & vbCrLf & _
                               "• By clicking OK you accept responsibility" & vbCrLf & vbCrLf & _
                               "Developed by: INFOTECH WIZARDS Tg Channel" & vbCrLf & _
-                              "Copyright (c) 2024 INFOTECH WIZARDS" & vbCrLf & _
+                              "Copyright (c) 2025 INFOTECH WIZARDS" & vbCrLf & _
                               "https://t.me/infotechwizards", _
                               0, "INFOTECH WIZARDS - WiFi Password Check Tool", vbOKCancel + vbInformation)
 
 If userResponse = vbCancel Then
     WshShell.Popup "Operation cancelled by user." & vbCrLf & vbCrLf & _
                    "Thank you for using INFOTECH WIZARDS tools!" & vbCrLf & _
-                   "Copyright (c) 2024 INFOTECH WIZARDS", _
+                   " 2025 INFOTECH WIZARDS", _
                    3, "INFOTECH WIZARDS", vbInformation
     WScript.Quit
 End If
@@ -46,7 +46,7 @@ WshShell.Popup "Initializing WiFi Password Recovery..." & vbCrLf & vbCrLf & _
                "• Extracting security information" & vbCrLf & _
                "• Administrator privileges required" & vbCrLf & vbCrLf & _
                "Please click YES on the UAC prompt..." & vbCrLf & vbCrLf & _
-               "Copyright (c) 2024 INFOTECH WIZARDS", _
+               "Copyright (c) 2025 INFOTECH WIZARDS", _
                3, "INFOTECH WIZARDS - Processing", vbInformation
 
 ' Execute the main command with professional formatting
@@ -56,7 +56,7 @@ command = "-NoExit -Command ""& {" & _
           "Write-Host '    INFOTECH WIZARDS WiFi Password Check Tool' -ForegroundColor Yellow; " & _
           "Write-Host '==============================================' -ForegroundColor Cyan; " & _
           "Write-Host 'Developer: INFOTECH WIZARDS Telegram Channel' -ForegroundColor Green; " & _
-          "Write-Host 'Copyright (c) 2024 INFOTECH WIZARDS' -ForegroundColor Green; " & _
+          "Write-Host 'Copyright (c) 2025 INFOTECH WIZARDS' -ForegroundColor Green; " & _
           "Write-Host 'Purpose: Educational & Authorized Testing Only' -ForegroundColor Green; " & _
           "Write-Host '==============================================' -ForegroundColor Cyan; " & _
           "Write-Host ''; " & _
@@ -77,7 +77,7 @@ command = "-NoExit -Command ""& {" & _
           "Write-Host 'Scan completed!' -ForegroundColor Yellow; " & _
           "Write-Host '==============================================' -ForegroundColor Cyan; " & _
           "Write-Host 'For more tools visit: t.me/infotechwizards' -ForegroundColor Green; " & _
-          "Write-Host 'Copyright (c) 2024 INFOTECH WIZARDS' -ForegroundColor Green; " & _
+          "Write-Host 'Copyright (c) 2025 INFOTECH WIZARDS' -ForegroundColor Green; " & _
           "Write-Host 'USE RESPONSIBLY! - INFOTECH WIZARDS' -ForegroundColor Red; " & _
           "}"""
 
@@ -91,5 +91,6 @@ WshShell.Popup "WiFi Password Recovery tool launched!" & vbCrLf & vbCrLf & _
                "1. Right-click and 'Run as Administrator'" & vbCrLf & _
                "2. Ensure you have admin privileges" & vbCrLf & vbCrLf & _
                "Thank you for using INFOTECH WIZARDS tools!" & vbCrLf & _
-               "Copyright (c) 2024 INFOTECH WIZARDS", _
+               "Copyright (c) 2025 INFOTECH WIZARDS", _
+
                5, "INFOTECH WIZARDS - Success", vbInformation
