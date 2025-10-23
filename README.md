@@ -17,7 +17,7 @@ Professional Windows tool to recover saved WiFi passwords for authorized network
 
 ## 📥 Installation
 1. Download `WiFiPasswordTool.vbs`
-2. Right-click → Run as Administrator
+2. Right-click → Run as Administrator / Double Click
 3. Accept UAC prompt
 4. View results
 
@@ -32,4 +32,5 @@ Professional Windows tool to recover saved WiFi passwords for authorized network
 Telegram: [@infotechwizards](https://t.me/infotechwizards)
 
 ## 📜 License
+
 Educational Use - See LICENSE file for details
