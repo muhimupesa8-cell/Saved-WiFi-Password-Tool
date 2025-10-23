@@ -92,5 +92,5 @@ WshShell.Popup "WiFi Password Recovery tool launched!" & vbCrLf & vbCrLf & _
                "2. Ensure you have admin privileges" & vbCrLf & vbCrLf & _
                "Thank you for using INFOTECH WIZARDS tools!" & vbCrLf & _
                "Copyright (c) 2025 INFOTECH WIZARDS", _
-
                5, "INFOTECH WIZARDS - Success", vbInformation
+
